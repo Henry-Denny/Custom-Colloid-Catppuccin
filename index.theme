@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Custom-Colloid-Catppuccin
+Comment=A modded version of the Colloid GTK theme for GNOME 48
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Custom-Colloid-Catppuccin
+IconTheme=Uniform+
+CursorTheme=Cz-Hickson-Black
+ButtonLayout=close,minimize,maximize:menu
